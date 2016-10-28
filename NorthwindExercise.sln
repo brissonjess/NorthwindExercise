@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Website(1)", "Website\", "{
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "57325"
+		SlnRelativePath = "Website\"
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NorthwindSystem", "NorthwindSystem\NorthwindSystem.csproj", "{DBE37003-0B0F-468F-A7A1-3DA54006C214}"
